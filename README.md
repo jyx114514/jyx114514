@@ -6,8 +6,18 @@
 # Hi, I'm Tian Fan(天繁轮尔夫)
 
 I did my undergrad at the CBS of China Agricultural University, and my grad studies at West China Medical Center, Sichuan University.
+<p>
 Once did research at Peking University and Tsinghua University
+</p>
 
 **Biology | Python | PyTorch | Deep Learning**
 
 </div>
+
+## MY PROJECT
+
+| Project | What it does |
+| :--- | :--- |
+| [token-paid](https://github.com/jyx114514/token-paid) | read-only CLI dashboard for token usage recorded in local Codex rollouts and WorkBuddy traces |
+
+More content is still being tested and hasn't been published.
