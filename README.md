@@ -21,4 +21,11 @@ Once did research at Peking University and Tsinghua University
 | [token-paid](https://github.com/jyx114514/token-paid) | read-only CLI dashboard for token usage recorded in local Codex rollouts and WorkBuddy traces |
 | [personal-html-book](https://github.com/jyx114514/personal-html-book) | A local authoring workflow to turn ChatGPT conversations, scientific notes, and so on into structured, readable, interactive HTML textbooks . |
 
+## 生物实验相关
+
+This part is only in Chinese 
+| Project | What it does |
+| :--- | :--- |
+| [生物湿实验](https://github.com/jyx114514/biology-experiments) | 教你快速了解部分实验怎么做以及要注意的地方 |
+
 More content is still being tested and hasn't been published.
