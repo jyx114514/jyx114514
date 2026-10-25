@@ -5,7 +5,7 @@
 
 # Hi, I'm Tian Fan(天繁轮尔夫)
 
-I did my undergrad at the CBS of China Agricultural University, and my grad studies at West China Medical Center, Sichuan University.
+I did my undergrad at the CBS of China Agricultural University, and my grad studies at West China Medical Center, Sichuan University（2027）.
 <p>
 Once did research at Peking University and Tsinghua University
 </p>
