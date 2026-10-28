@@ -17,7 +17,7 @@ Once did research at Peking University and Tsinghua University
 ## MY PROJECT
 
 | Project | What it does |
-| :--- | :--- |
+| :---- | :--- |
 | [token-paid](https://github.com/jyx114514/token-paid) | read-only CLI dashboard for token usage recorded in local Codex rollouts and WorkBuddy traces |
 | [personal-html-book](https://github.com/jyx114514/personal-html-book) | A local authoring workflow to turn ChatGPT conversations, scientific notes, and so on into structured, readable, interactive HTML textbooks . |
 | [fasta-taxonomy-mapper](https://github.com/jyx114514/fasta-taxonomy-mapper)| reads FASTA files with Biopython and uses the official UniProt REST API to map accessions to organisms in the current database. Each unique accession is queried once, while the output retains every original FASTA record, including duplicates, in its original order.|
