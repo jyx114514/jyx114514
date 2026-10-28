@@ -16,7 +16,7 @@ Once did research at Peking University and Tsinghua University
 
 ## MY PROJECT
 
-| Project | What it does |
+|   Project   | What it does |
 | :---- | :--- |
 | [token-paid](https://github.com/jyx114514/token-paid) | read-only CLI dashboard for token usage recorded in local Codex rollouts and WorkBuddy traces |
 | [personal-html-book](https://github.com/jyx114514/personal-html-book) | A local authoring workflow to turn ChatGPT conversations, scientific notes, and so on into structured, readable, interactive HTML textbooks . |
