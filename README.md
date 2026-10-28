@@ -16,11 +16,30 @@ Once did research at Peking University and Tsinghua University
 
 ## MY PROJECT
 
-|   Project   | What it does |
-| :---- | :--- |
-| [token-paid](https://github.com/jyx114514/token-paid) | read-only CLI dashboard for token usage recorded in local Codex rollouts and WorkBuddy traces |
-| [personal-html-book](https://github.com/jyx114514/personal-html-book) | A local authoring workflow to turn ChatGPT conversations, scientific notes, and so on into structured, readable, interactive HTML textbooks . |
-| [fasta-taxonomy-mapper](https://github.com/jyx114514/fasta-taxonomy-mapper)| reads FASTA files with Biopython and uses the official UniProt REST API to map accessions to organisms in the current database. Each unique accession is queried once, while the output retains every original FASTA record, including duplicates, in its original order.|
+
+<table>
+  <thead>
+    <tr>
+      <th width="25%" align="left">Project</th>
+      <th width="75%" align="left">What it does</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/jyx114514/token-paid">token-paid</a></td>
+      <td>Read-only CLI dashboard for token usage recorded in local Codex rollouts and WorkBuddy traces.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jyx114514/personal-html-book">personal-html-book</a></td>
+      <td>Transforms ChatGPT conversations, scientific notes, and other materials into structured, readable, interactive HTML textbooks.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jyx114514/fasta-taxonomy-mapper">fasta-taxonomy-mapper</a></td>
+      <td>Maps FASTA accessions to organisms using Biopython and the UniProt REST API, preserving original record order and duplicates while avoiding redundant API queries.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 生物实验相关
 
