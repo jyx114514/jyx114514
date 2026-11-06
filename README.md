@@ -49,4 +49,4 @@ This part is only in Chinese
 | [生物湿实验](https://github.com/jyx114514/biology-experiments) | 教你快速了解部分实验怎么做以及要注意的地方 |
 |[深度学习在生物学上的应用](https://github.com/jyx114514/deeplearn-for-biology) | 主要是面向刚入门的学生，讲解的代码只需本地4060，16G内存即可本地运行 |
 
-More content is still being tested and hasn't been published.
+More content is still being tested and hasn't been published.I have many things to do recent.( ´•̥̥̥ω•̥̥̥` )
